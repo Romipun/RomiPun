@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Romi!</h1>
-<h3 align="center">A passionate Data Science Masters Student from Canada</h3>
+<h3 align="center">A passionate Masters Student from Canada</h3>
 
 - 🔭 I’m currently working on **Finishing my Masters of Data Science and Analytics (MDSA) program at UofC**
 
