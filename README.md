@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Finishing my Masters of Data Science and Analytics (MDSA) program at UofC**
 
-- 🌱 I’m currently learning about **Machine Learning, Data Visualization, and Databases**
+- 🌱 I’m currently learning about **Machine Learning, Data Analysis, Data Visualization, and Databases**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Romipun/DataScienceProjects](https://github.com/Romipun/DataScienceProjects)
 
